@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Npm install in root dir 
-npm start (must provide API key, make new folder .env in root of project) 
+-Npm install in root dir 
+-npm start (must provide API key, make new folder .env in root of project) 
 
 
-##Check out the live version 
+## Check out the live version 
 https://joshuatube.herokuapp.com/
