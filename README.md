@@ -7,4 +7,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Check out the live version 
-https://joshuatube.herokuapp.com/
+https://arcane-retreat-65894.herokuapp.com/ (winter Mix 2018) 
