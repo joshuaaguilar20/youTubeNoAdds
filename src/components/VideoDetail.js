@@ -5,7 +5,7 @@ const VideoDetail = ({ video }) => {
     return <div>Loading...</div>;
   }
 
-  const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
+  const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}?playlist=${video.id.videoId}&autoplay=1&rel=0`;
 
   return (
     <div>
@@ -15,7 +15,6 @@ const VideoDetail = ({ video }) => {
       <div className="ui segment">
         <h4 className="ui header">{video.snippet.title}</h4>
         <p>{video.snippet.description}</p>
-        <p>Full Screen disabled by youtube</p>
 
       </div>
     </div>
